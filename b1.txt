@@ -1,1 +1,3 @@
-day la file thuoc b1
+day la file thuoc b1 va main
+
+
